@@ -1,0 +1,24 @@
+header{
+   background-color: maroon;
+    color: bisque;
+    text-align: center;
+
+}
+
+body{
+    background-color: burlywood ;
+
+}
+
+nav{
+    text-align: center;
+    color: bisque;
+    
+}
+
+section{ 
+    text-align: center;
+    color: bisque;
+    margin: auto;
+
+}
